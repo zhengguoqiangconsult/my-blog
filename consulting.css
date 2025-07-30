@@ -1,0 +1,40 @@
+/* 搜索结果页面的样式 */
+.consulting-results {
+    padding: 60px 0;
+    background-color: #fff;
+}
+
+.consulting-results h1 {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.result-item {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.result-item h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.result-item p {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.result-item a {
+    font-size: 16px;
+    color: #0073e6;
+    text-decoration: none;
+}
+
+.result-item a:hover {
+    text-decoration: underline;
+}
